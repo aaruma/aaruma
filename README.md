@@ -31,7 +31,10 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen style = "pointer-events: none;"></iframe>
+
+
+ <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNybXJuY2s0dXphdHQ0OXk1Z3hlNXB6ZndwOW1mNHZlYTIzaHIwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width = 480px height = 360px> 
+
 
 <h3 align="center">
   <img src = "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width = 30px height = 30px> 
@@ -47,9 +50,11 @@
 ## About Me
 
 <ul>
-  <li>Currently an undergraduate studying Software Engineering at Toronto Metropolitan University.</li> 
+  <li>Currently an undergraduate studying Software Engineering at <a href = "https://www.torontomu.ca/electrical-computer-biomedical/computer-undergraduate/home/">Toronto Metropolitan University. </a></li> 
 
-  <li>Previously, worked as a Software Developer Intern with Ontario Ministry of Government and Consumer Services</li> 
+  <li>Previously, worked as a Software Developer Intern with <a href = "https://www.ontario.ca/page/ministry-public-business-service-delivery"> Ontario Ministry of Government and Consumer Services</a>
+  
+  </li> 
 </ul>
 
 
