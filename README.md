@@ -37,7 +37,7 @@
 
 
 <h3 align="center">
-  <img src = "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width = 30px height = 30px> 
+  <img src = "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width = 30px height = 30px style = "pointer-events: none;"> 
  Hello, I'm Arjen Arumalingam</h3>
 
   <p align="center">
