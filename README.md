@@ -44,7 +44,7 @@
 
 <!-- Incase you want to change pitch: https://readme-typing-svg.herokuapp.com/demo/ -->
 
-  <a href="https://git.io/typing-svg" style = "pointer-events: none;"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&random=false&width=435&lines=A+passionate+Software+developer" style = "pointer-events: none;" alt="Something wrong" /></a>
+  <a href="#" style = "pointer-events: none;"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&random=false&width=435&lines=A+passionate+Software+developer" style = "pointer-events: none;" alt="Something wrong" /></a>
 </div>
  
 ## About Me
