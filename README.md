@@ -1,14 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -18,15 +8,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
-<!--
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
---!>
 
 
 <!-- PROJECT LOGO -->
@@ -79,14 +60,11 @@
 <!-- CONTACT -->
 ## Contact Me
 
-<!-- <a href = "https://www.linkedin.com/in/aaruma/"><img src = "https://cdn-icons-png.flaticon.com/256/174/174857.png" width = "50"></a>
-
-<a href = "https://www.linkedin.com/in/aaruma/"><img src = "" width = "50"></a> -->
 
 <a href = "https://www.linkedin.com/in/aaruma/" style = "padding-right: 10px ">
-  <img src = "./image-1.png" width = 40px>
+  <img src = "./image-1.png" width = 40px/>
 </a>
 
 <a href = "mailto: arjen.arumalingam@torontomu.ca">
-  <img src = "./image.png" width = 40px>
+  <img src = "./image.png" width = 40px/>
 </a>
