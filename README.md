@@ -25,7 +25,7 @@
 
 <!-- Incase you want to change pitch: https://readme-typing-svg.herokuapp.com/demo/ -->
 
-<a style = "margin-left: 50px; pointer-events: none;" href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&center=true&random=false&width=500&lines=A+passionate+Software+Engineer.;Experience+with+web+applications.;Adapting+to+new+technologies+%26+tools.;Prioritize+tasks+effectively.;Handle+disagreements+professionally." alt="Typing SVG" /></a>
+<a style = "margin-left: 300px; pointer-events: none;" href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&center=true&random=false&width=500&lines=A+passionate+Software+Engineer.;Experience+with+web+applications.;Adapting+to+new+technologies+%26+tools.;Prioritize+tasks+effectively.;Handle+disagreements+professionally." alt="Typing SVG" /></a>
 </p></div>
  
 ## 🙋‍♂️ About Me
