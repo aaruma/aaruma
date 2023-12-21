@@ -21,12 +21,9 @@
   <img src = "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width = 30px height = 30px style = "pointer-events: none;"> 
  Hello, I'm Arjen Arumalingam</h3>
 
- <a align = "center" style = "pointer-events: none;" href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&center=true&random=false&width=500&lines=A+passionate+Software+Engineer.;Experience+with+web+applications.;Adapting+to+new+technologies+%26+tools.;Prioritize+tasks+effectively.;Handle+disagreements+professionally." alt="Ooops" /></a>
-
-  <p align="center">
 
 <!-- Incase you want to change pitch: https://readme-typing-svg.herokuapp.com/demo/ -->
-</p>
+ <a align = "center" style = "pointer-events: none;" href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&center=true&random=false&width=500&lines=A+passionate+Software+Engineer.;Experience+with+web+applications.;Adapting+to+new+technologies+%26+tools.;Prioritize+tasks+effectively.;Handle+disagreements+professionally." alt="Ooops" /></a>
 
 </div>
  
