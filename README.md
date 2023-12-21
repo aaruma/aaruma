@@ -61,8 +61,8 @@
 ## Contact Me
 
 
-<a href = "https://www.linkedin.com/in/aaruma/" style = "padding-right: 10px ">
-  <img src = "./image-1.png" width = 40px/>
+<a href = "https://www.linkedin.com/in/aaruma/">
+  <img src = "./image-1.png" width = 40px style = "padding-right: 10px "/>
 </a>
 
 <a href = "mailto: arjen.arumalingam@torontomu.ca">
