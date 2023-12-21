@@ -72,5 +72,4 @@
   <img src = "./image.png" width = 40px/>
     <a href = "mailto: arjen.arumalingam@torontomu.ca"></a>
   </img>
-</a>
 </div>
