@@ -25,7 +25,7 @@
 
 <!-- Incase you want to change pitch: https://readme-typing-svg.herokuapp.com/demo/ -->
 
-  <a href="#" style = "pointer-events: none;"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&random=false&width=435&lines=A+passionate+Software+developer" style = "pointer-events: none;" alt="Something wrong" /></a>
+<a style = "margin-left: 30px; pointer-events: none;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&center=true&random=false&width=500&lines=A+passionate+Software+Engineer.;Experience+with+web+applications.;Adapting+to+new+technologies+%26+tools.;Prioritize+tasks+effectively.;Handle+disagreements+professionally." alt="Typing SVG" /></a>
 </p></div>
  
 ## 🙋‍♂️ About Me
@@ -57,6 +57,8 @@
 ### Tools
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+<!-- ![Arjens GitHub stats](https://github-readme-stats.vercel.app/api?username=aaruma&show_icons=true&theme=transparent) -->
 
 <!-- CONTACT -->
 ## Contact Me
