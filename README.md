@@ -62,7 +62,7 @@
 
 
 
-  <img src = "./image-1.png" width = 40px style = "padding-right: 10px">
+  <img src = "./image-1.png" width = 40px>
   <a href = "https://www.linkedin.com/in/aaruma/"></a>
   </img> 
 
