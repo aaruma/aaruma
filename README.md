@@ -63,13 +63,13 @@
 
 
 <div style = "display: inline-block">
-  <img src = "./image-1.png" width = 40px>
-  <a href = "https://www.linkedin.com/in/aaruma/"></a>
-  </img> 
+<a href = "https://www.linkedin.com/in/aaruma/">
+  <img src = "./image-1.png" width = 40px></img> 
+</a>
   &nbsp;
   &nbsp;
 
-  <img src = "./image.png" width = 40px/>
-    <a href = "mailto: arjen.arumalingam@torontomu.ca"></a>
-  </img>
+<a href = "mailto: arjen.arumalingam@torontomu.ca">
+  <img src = "./image.png" width = 40px/></img>
+</a>
 </div>
