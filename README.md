@@ -62,8 +62,8 @@
 ## Contact Me
 
 
-<div style = "display: inline-block padding-right: 10px">
-  <img src = "./image-1.png" width = 40px>
+<div style = "display: inline-block">
+  <img src = "./image-1.png" width = 40px style = "padding-right: 10px;" >
   <a href = "https://www.linkedin.com/in/aaruma/"></a>
   </img> 
 
