@@ -32,16 +32,12 @@
 <ul>
   <li>📚 Currently an undergraduate studying Software Engineering at <a href = "https://www.torontomu.ca/electrical-computer-biomedical/computer-undergraduate/home/">Toronto Metropolitan University. </a></li> 
 
-  <li>💼 Previously, worked as a Software Developer Intern with <a href = "https://www.ontario.ca/page/ministry-public-business-service-delivery"> Ontario Ministry of Government and Consumer Services.</a>
+  <li>💼 Previously, worked as a Software Developer Intern with <a href = "https://www.ontario.ca/page/ministry-public-business-service-delivery"> Ontario Ministry of Government and Consumer Services.</a></li>
 
-  <li>
-  💬 Ask me about collaborations for hackathons and side-projects.
-  </li>
+  <li>💬 Ask me about collaborations for hackathons and side-projects.</li>
   
   <li>
-  ⚡Hobbies: Enjoy playing sports such as Basketball, Soccer, and Badminton.
-  
-  </li> 
+  ⚡ Hobbies: Enjoy playing sports such as Basketball, Soccer, and Badminton.</li> 
 </ul>
 
 <!-- For more tags/badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
