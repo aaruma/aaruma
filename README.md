@@ -36,8 +36,7 @@
 
   <li>💬 Ask me about collaborations for hackathons and side-projects.</li>
   
-  <li>
-  ⚡ Hobbies: Enjoy playing sports such as Basketball, Soccer, and Badminton.</li> 
+  <li>⚡ Hobbies: Enjoy playing sports such as Basketball, Soccer, and Badminton.</li> 
 </ul>
 
 <!-- For more tags/badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
